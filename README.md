@@ -22,11 +22,6 @@ You can click on any elements by <kbd>Option</kbd> clicking on any element. You 
 
 Any time you select a component, the code pane will pop up. Any edits you make to the code pane will be reflected in your browser and in your code. If you want to edit styling even faster, you can pull up the command palette with <kbd>Command</kbd><kbd>K</kbd>. Typing a class in the command palette will add that Tailwind class to the selected component. If the class you are trying to add conflicts with an existing class, Vivid will replace the old class with your new input. If you type out a class that the component already has, Vivid will remove that class. 
 
-## Leaderboard
-1. Kevin Liu - 8 minutes, 24 seconds
-2. Zahid Mahmood - 13 minutes, 50 seconds
-3. Ryan Lee - 16 minutes, 13 seconds
-
 ## Known Issues
 1. The app works with most Next applications. If it doesn't work with yours, shoot me a text with the error message - we'll fix it. 
 2. The app does (infrequently) crash. If you just refresh your browser, it will almost always go away. All your changes get autosaved to your code, so you don't have to worry about losing your edits. 

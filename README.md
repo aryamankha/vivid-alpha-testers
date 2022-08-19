@@ -1,4 +1,19 @@
 # vivid-alpha-testers
+Build visually and code faster with Vivid — an in browser visual editor to modify your code
+
+[Landing Page](https://vivid.lol)
+
+## Install
+
+Install Vivid with your preferred package manager.
+
+```sh
+# NPM
+npm install -D vivid-studio
+
+# Yarn
+yarn add -D vivid-studio
+```
 
 ## Usage
 Vivid currently only supports apps with the following: React ≥ 17.0.2, NextJS ≥ 12.0.0, Tailwind. Vite, CRA support is coming soon. Paste the following into your top level file (any file that always gets imported should work).

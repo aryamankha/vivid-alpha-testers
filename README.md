@@ -9,6 +9,7 @@ if (process.env.NODE_ENV === "development") {
   import("vivid-studio/style");
 }
 ```
+Now, once you run your application in dev mode, you should have Vivid's full functionality! You'll first be prompted to give read/write permission in the directory which your application is located. 
 
 ## Inspecting elements
 

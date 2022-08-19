@@ -1,5 +1,5 @@
 # vivid-alpha-testers
-Build visually and code faster with Vivid — an in browser visual editor to modify your code
+Build visually and code faster with Vivid — an in-browser visual editor to modify your code
 
 [Landing Page](https://vivid.lol)
 
